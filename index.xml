@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>We Ate It Anyway</title>
+    <link>http://weateitanyway.github.io/</link>
+    <description>Recent content on We Ate It Anyway</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sun, 09 Dec 2018 09:16:05 -0800</lastBuildDate>
+    
+	<atom:link href="http://weateitanyway.github.io/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>About</title>
+      <link>http://weateitanyway.github.io/about/</link>
+      <pubDate>Sun, 09 Dec 2018 09:16:05 -0800</pubDate>
+      
+      <guid>http://weateitanyway.github.io/about/</guid>
+      <description>This blog is a collection of recipes, tips &amp;amp; tricks we come across as we practice lazy keto, the art of low carb cooking without looking too hard at the macros.
+🍖</description>
+    </item>
+    
+    <item>
+      <title>First post: baked brie</title>
+      <link>http://weateitanyway.github.io/posts/first-post/</link>
+      <pubDate>Sun, 09 Dec 2018 09:16:05 -0800</pubDate>
+      
+      <guid>http://weateitanyway.github.io/posts/first-post/</guid>
+      <description>Hey, it&amp;rsquo;s baked brie. Here&amp;rsquo;s how to make it:
+ Slice the top off of a wheel of brie Sandwich marionberries in between the brie Wrap the whole thing in fathead dough Brush with egg whites, and sprinkle sesame seeds on top Cut a couple of vents in the top  We ate the whole thing over the course of the day. No need for dipping foods, just slice off a hunk.</description>
+    </item>
+    
+  </channel>
+</rss>
